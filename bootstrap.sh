@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO="https://github.com/<username>/WinBoat-Pro"
+REPO=REPO="https://github.com/longnguyen2026/winboat.git"
 BRANCH="main"
 
 TMPDIR=$(mktemp -d)
