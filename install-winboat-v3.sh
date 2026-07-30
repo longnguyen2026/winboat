@@ -19,7 +19,7 @@ RESET='\033[0m'
 
 # WinBoat package
 #WB_URL="https://github.com/longnguyen2026/winboat/releases/latest/download/wb.deb"
-WB_URL="https://github.com/longnguyen2026/winboat-installer/releases/latest/download/wb.deb"
+WB_URL="https://github.com/longnguyen2026/winboat/releases/download/wb-v3/wb.deb"
 
 # ==========================
 # UI
