@@ -2,7 +2,7 @@
 
 set -e
 
-REPO="https://raw.githubusercontent.com/longnguyen2026/setup-wb-mint/main"
+REPO="https://raw.githubusercontent.com/longnguyen2026/winboat/main"
 
 echo "========================================"
 echo "        WinBoat Installer"
