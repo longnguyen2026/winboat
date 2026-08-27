@@ -3,7 +3,11 @@
 bash <(curl -fsSL https://raw.githubusercontent.com/longnguyen2026/winboat/main/install-wb.sh)
 ````
 #
-
+#Link sau cập nhật phân quyền user truy cập Winboat
+```` Bash
+bash <(curl -fsSL https://raw.githubusercontent.com/longnguyen2026/winboat/main/install-wb-v4.sh)
+````
+#
 
 
 #Với user nhanvien, chạy 2 lệnh này:
