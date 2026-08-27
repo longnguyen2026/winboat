@@ -86,8 +86,7 @@ check_net(){
 
 step "Checking Internet..."
 
-# if ping -c1 github.com >/dev/null 2>&1
-if ping -c1 google.com >/dev/null 2>&1
+if curl -fsSL --connect-timeout 10 https://github.com >/dev/null 2>&1
 then
     ok "Internet OK"
 else
